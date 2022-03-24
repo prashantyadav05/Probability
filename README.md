@@ -1,5 +1,8 @@
 # Probability
-
+* For a random variable x, P(x) is a function that assigns a probability to all possible values of x.          
+* **Joint Probability:** Occurence of 2 or more events.
+* **Marginal Probability:** Marginal probability is the probability of an event irrespective of the outcome of other variables. Sum of joint probabilities.
+* **Conditional Probability:** Ratio of joint probability of the event A and B, to the marginal probability of event B.
 
 
 
